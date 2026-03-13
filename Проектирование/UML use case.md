@@ -4,7 +4,7 @@ left to right direction
 
 actor "Разработчик\nArkVM TS Sta" as Dev
 
-actor "AVA HGC" as App
+actor "Приложение\nвизуализатора" as App
 
 
 rectangle "Действия пользователя" {

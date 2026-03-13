@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проектирование/C4 context.md",
+                "file": "Термины и сокращения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C4 context"
+              "title": "Термины и сокращения"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проектирование/UML use case.md",
+                "file": "Источники/Ссылки на статьи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UML use case"
+              "title": "Ссылки на статьи"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,23 +197,39 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "046bc20b44597e41",
+  "active": "b9a24e4e8a736aec",
   "lastOpenFiles": [
-    "Проектирование/UML use case.md",
-    "Без названия 1.md",
-    "Проектирование/C4 context.md",
+    "~WRL1250.tmp",
+    "~WRD1203.tmp",
+    "~WRL3209.tmp",
+    "~WRD3158.tmp",
+    "~WRL3606.tmp",
+    "~WRD3555.tmp",
+    "~WRL0854.tmp",
+    "~WRD0811.tmp",
+    "~WRL0337.tmp",
+    "~WRD0294.tmp",
+    "Источники/Аналоги.md",
+    "~WRL3546.tmp",
+    "Источники/Ссылки на статьи.md",
+    "Термины и сокращения.md",
+    "Сравнения.md",
     "Проектирование/Домены.md",
+    "Проектирование/Dump struct.md",
+    "Проектирование/Dump.png",
+    "Проектирование/UML use case.md",
+    "Проектирование/IDEF png/01_A0.png",
+    "Проектирование/C4 context.md",
+    "Drawing 2026-03-11 16.41.06.excalidraw.md",
+    "Главная.md",
+    "Без названия.md",
+    "Без названия 1.md",
+    "Проектирование/IDEF png/05_A3.png",
+    "Проектирование/IDEF png/04_A2.png",
+    "Проектирование/IDEF png/03_A1.png",
+    "Проектирование/IDEF png/02_A0.png",
     "Требования/Функциональные требования.md",
     "Требования/Нефункциональные требования.md",
-    "Проектирование/UML use case.md~",
-    "Главная.md",
-    "Сравнения.md",
-    "Источники/Аналоги.md",
-    "Проектирование",
-    "Без названия.md",
-    "Требования",
-    "Источники/Ссылки на статьи.md",
-    "Источники",
     "Добро пожаловать.md"
   ]
 }
